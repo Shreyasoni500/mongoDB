@@ -11,7 +11,8 @@ public class Department {
 
     @Id
     private String id;
-
+    
+    //This is Department
     @Indexed(name = "deptName")
     private String name;
     private String description;
