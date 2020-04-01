@@ -1,0 +1,7 @@
+com/textlocal/mongoDB/MongoDbApplication.class
+com/textlocal/mongoDB/controller/DepartmentController.class
+com/textlocal/mongoDB/mongo/Department.class
+com/textlocal/mongoDB/config/MongoConfig.class
+com/textlocal/mongoDB/repository/DepartmentRepository.class
+com/textlocal/mongoDB/repository/DeptRepository.class
+com/textlocal/mongoDB/mongo/Employee.class
